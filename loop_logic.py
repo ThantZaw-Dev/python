@@ -13,5 +13,5 @@ for x in range(0,n):
     for y in range(1,(n-x)*2):
         print("*",end="")
 print()
-print("Rearch by Thant Zaw",end="")  
+print("Researched by Thant Zaw",end="")  
 
